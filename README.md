@@ -23,7 +23,7 @@ This project is a Django-based API for managing users and tracking their expense
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/TUSHAR-VERMA-star/Daily-Expenses-Sharing-Application.git
-    cd expense-tracker
+    cd Daily-Expenses-Sharing-Application
     ```
 
 2. **Create a virtual environment**:
